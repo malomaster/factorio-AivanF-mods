@@ -1,0 +1,3 @@
+Because you don't have "Issues" section, I have to write here.
+Button issue with https://mods.factorio.com/mod/belt-visualizer mod.
+When I press Belt visualizer GUI button used for turn belt visualization on/off, for some reason it also calls "Reverse Engineering evaluator" GUI.
